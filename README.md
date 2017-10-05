@@ -28,6 +28,12 @@ _Interdisziplinärer Workshop der Grundklassen Architektur, Industrial Design, K
 
 
 
+_Eine Initiative von_
+
+[**Institute for Experimental Robotics and Interstellar Stuff**](http://erisinstitute.lazyrobots.de/)
+
+**AKA Interdisziplinär**
+
 
 
 													
