@@ -10,7 +10,7 @@ _Interdisziplinärer Workshop der Grundklassen Architektur, Industrial Design, K
 
 ## Was gibt es hier zu finden?
 
-* Code-Beispiele für die Roboter
+* Code-Beispiele für die Maschinen
 
 * Dokumentation der Ergebnisse
 
@@ -19,7 +19,9 @@ _Interdisziplinärer Workshop der Grundklassen Architektur, Industrial Design, K
 ## Was muss ich tun?
 
 1. Downloaden aller Projektdaten als **.zip** über "Clone or download"
-2. Entpacken
+2. "Download ZIP"
+3. Entpacken
+
 
 ![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/download_beispiel.png?raw=true")
 
