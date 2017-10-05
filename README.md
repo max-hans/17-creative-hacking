@@ -30,5 +30,6 @@ _Interdisziplinärer Workshop der Grundklassen Architektur, Industrial Design, K
 
 _Ein Workshop im Rahmen von_
 
-**AKA Interdisziplinär**
+**AKA Interstellar**
+
 ![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/aka_interstellar_logo.png?raw=true)
