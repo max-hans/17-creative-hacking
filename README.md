@@ -32,4 +32,4 @@ _Ein Workshop im Rahmen von_
 
 **AKA Interstellar**
 
-![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/aka_interstellar_logo.png?raw=true)
+![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/aka_interstellar_logo_tilt.png?raw=true | width = 200)
