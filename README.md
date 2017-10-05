@@ -4,6 +4,8 @@
 
 _Workshop Creative Hacking ABK Stuttgart WS 17/18_
 
+[Institute for Experimental Robotics and Interstellar Stuff](http://erisinstitute.lazyrobots.de/)
+
 _Interdisziplinärer Workshop der Grundklassen Architektur, Industrial Design, Kommunikationsdesign & Kunst_
 
 > technology has become a black box for us users. the function and behaviour of devices and machines around us are not predictable and foreseeable due to their high grade of complexity and fragmentation.
@@ -25,7 +27,6 @@ _Interdisziplinärer Workshop der Grundklassen Architektur, Industrial Design, K
 
 
 ![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/download_beispiel.png?raw=true")
-
 
 
 _Ein Workshop im Rahmen von_
