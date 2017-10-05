@@ -1,4 +1,4 @@
-![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/Main%20Header.png?raw=true")
+![alt text](https://github.com/max-hans/creative-hacking/blob/upda/res/Main%20Header.png?raw=true")
 
 # _CREATIVE HACKING_
 
@@ -28,10 +28,7 @@ _Interdisziplinärer Workshop der Grundklassen Architektur, Industrial Design, K
 
 
 
-_Eine Initiative von_
-
-**Institute for Experimental Robotics and Interstellar Stuff**
-![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/erisinstitute_logo.png?raw=true)
+_Ein Workshop im Rahmen von_
 
 **AKA Interdisziplinär**
 ![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/aka_interstellar_logo.png?raw=true)
