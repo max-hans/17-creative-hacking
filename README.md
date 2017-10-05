@@ -34,4 +34,4 @@ _Ein Workshop im Rahmen von_
 
 ![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/aka_interstellar_logo_tilt.png?raw=true | width = 200")
 
-![alt text](https://github.com/max-hans/creative-hacking/blob/upda/res/Main%20Header.png?raw=true")
+![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/aka_interstellar_logo_tilt.png?raw=true")
