@@ -3,6 +3,7 @@
 # _CREATIVE HACKING_
 
 _Workshop Creative Hacking ABK Stuttgart WS 17/18_
+
 _Interdisziplinärer Workshop der Grundklassen Architektur, Industrial Design, Kommunikationsdesign & Kunst_
 
 > technology has become a black box for us users. the function and behaviour of devices and machines around us are not predictable and foreseeable due to their high grade of complexity and fragmentation.
