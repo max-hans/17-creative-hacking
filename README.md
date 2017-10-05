@@ -1,4 +1,4 @@
-![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/github_banner.png?raw=true")
+![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/Main%20Header.png?raw=true")
 
 # _CREATIVE HACKING_
 
