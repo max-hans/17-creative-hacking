@@ -30,11 +30,8 @@ _Interdisziplinärer Workshop der Grundklassen Architektur, Industrial Design, K
 
 _Eine Initiative von_
 
-
+**Institute for Experimental Robotics and Interstellar Stuff**
+![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/erisinstitute_logo.png?raw=true)
 
 **AKA Interdisziplinär**
-
-
-**Institute for Experimental Robotics and Interstellar Stuff**
-
-
+![alt text](https://github.com/max-hans/creative-hacking/blob/master/res/aka_interstellar_logo.png?raw=true)
