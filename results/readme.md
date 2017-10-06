@@ -3,3 +3,12 @@
 # Dokumentation der Ergebnisse
 
 Hier werden alle Ergebnisse gesammelt und zur Verfügung gestellt.
+
+_Vorlage_
+
+##Projektname
+_Gruppenmitglied, Gruppenmitglied_
+* Beschreibung des Objektes
+* Hardwareliste
+* Code
+[[BILD]]
