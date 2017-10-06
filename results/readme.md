@@ -6,7 +6,7 @@ Hier werden alle Ergebnisse gesammelt und zur Verfügung gestellt.
 
 _Vorlage_
 
-##Projektname
+## Projektname
 _Gruppenmitglied, Gruppenmitglied_
 * Beschreibung des Objektes
 * Hardwareliste
