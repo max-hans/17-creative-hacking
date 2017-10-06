@@ -11,4 +11,5 @@ _Gruppenmitglied, Gruppenmitglied_
 * Beschreibung des Objektes
 * Hardwareliste
 * Code
+
 [[BILD]]
