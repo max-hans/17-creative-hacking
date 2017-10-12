@@ -14,13 +14,6 @@
 
 ////////////////////////////////////////////////////////////////////////
 
-// Wenn nötig Endschalter deklarieren
-
-#define ENDSTOP11 A0
-#define ENDSTOP12 A1
-#define ENDSTOP21 A2
-#define ENDSTOP22 A3
-
 // Motoren initialisieren
 
 AF_DCMotor motor1(1);
@@ -47,7 +40,7 @@ void setup() {
   motor1.setSpeed(maxSpeed1);
   motor2.setSpeed(maxSpeed2);
   motor1.run(BACKWARD);
-  motor2.run(BACKWARD);
+  
 }
 
 ////////////////////////////////////////////////////////////////////////
