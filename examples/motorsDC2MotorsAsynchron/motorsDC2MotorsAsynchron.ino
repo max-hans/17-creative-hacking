@@ -90,7 +90,7 @@ void loop() {
     }
     // Speichere die neue Zeit in die Variable.
 
-    timeStamp1 = timeNow + deltaTime1
+    timeStamp1 = timeNow + deltaTime1;
   }
 
   // ... das gleiche Spiel für Motor 2
@@ -103,7 +103,7 @@ void loop() {
       direction2 = true;
       motor2.run(FORWARD);
     }
-    timeStamp2 = timeNow + deltaTime2
+    timeStamp2 = timeNow + deltaTime2;
   }
 
 }
